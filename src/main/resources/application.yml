@@ -1,0 +1,15 @@
+logging:
+  level:
+    org.springframework.web : ERROR
+    com.example.SpringBootLogging : DEBUG
+
+  pattern:
+    console: '%d{yyyy-MM-DD HH:MM:SS} - %msg%n'
+    file : '%d{yyyy-MM-DD HH:MM:SS}[%thread] %-5level %logger{36} - %msg%n'
+  file:
+    name: /Users/apple/Downloads/spring-Boot-Logging/Logger Files/api.log
+
+
+
+
+

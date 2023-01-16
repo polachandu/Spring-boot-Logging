@@ -1,0 +1,16 @@
+2023-01-15 18:43:33 [restartedMain] INFO  c.e.S.SpringBootLoggingApplication -
+                Starting SpringBootLoggingApplication using Java 18.0.2 with PID 20698 (/Users/apple/Downloads/Spring-Boot-Logging/target/classes started by apple in /Users/apple/Downloads/Spring-Boot-Logging)
+2023-01-15 18:43:33 [restartedMain] DEBUG c.e.S.SpringBootLoggingApplication -
+                Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-15 18:43:33 [restartedMain] INFO  c.e.S.SpringBootLoggingApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-01-15 18:43:36 [restartedMain] INFO  c.e.S.SpringBootLoggingApplication -
+                Started SpringBootLoggingApplication in 3.165 seconds (process running for 4.845)
+2023-01-15 18:45:57 [http-nio-8080-exec-1] DEBUG c.e.S.SpringBootLoggingApplication -
+                Request chandu
+2023-01-15 18:45:57 [http-nio-8080-exec-1] DEBUG c.e.S.SpringBootLoggingApplication -
+                Response Hi chandu Welcome to Introduction of Logging
+2023-01-15 18:46:54 [http-nio-8080-exec-3] DEBUG c.e.S.SpringBootLoggingApplication -
+                Request teja
+2023-01-15 18:46:54 [http-nio-8080-exec-3] DEBUG c.e.S.SpringBootLoggingApplication -
+                Response Hi teja Welcome to Introduction of Logging
